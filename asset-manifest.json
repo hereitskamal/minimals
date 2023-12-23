@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/minimals/static/css/main.676ee886.css",
-    "main.js": "/minimals/static/js/main.bf3fbc01.js",
+    "main.js": "/minimals/static/js/main.092af059.js",
     "static/js/787.a3c83fdd.chunk.js": "/minimals/static/js/787.a3c83fdd.chunk.js",
     "static/media/minimalfasion.png": "/minimals/static/media/minimalfasion.004464e89d6c270200f3.png",
     "static/media/Autumn.png": "/minimals/static/media/Autumn.e230b74d4e16ad8cd101.png",
@@ -13,11 +13,11 @@
     "static/media/._UniNeue-HeavyItalic.ttf": "/minimals/static/media/._UniNeue-HeavyItalic.eaf3d4bb2fe43005c961.ttf",
     "static/media/._UniNeue-Light.ttf": "/minimals/static/media/._UniNeue-Light.eaf3d4bb2fe43005c961.ttf",
     "main.676ee886.css.map": "/minimals/static/css/main.676ee886.css.map",
-    "main.bf3fbc01.js.map": "/minimals/static/js/main.bf3fbc01.js.map",
+    "main.092af059.js.map": "/minimals/static/js/main.092af059.js.map",
     "787.a3c83fdd.chunk.js.map": "/minimals/static/js/787.a3c83fdd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.676ee886.css",
-    "static/js/main.bf3fbc01.js"
+    "static/js/main.092af059.js"
   ]
 }
