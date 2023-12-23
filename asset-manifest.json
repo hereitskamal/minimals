@@ -1,23 +1,28 @@
 {
   "files": {
-    "main.css": "/minimals/static/css/main.676ee886.css",
-    "main.js": "/minimals/static/js/main.de66279f.js",
+    "main.css": "/minimals/static/css/main.fd1776be.css",
+    "main.js": "/minimals/static/js/main.f630a3c5.js",
     "static/js/787.a3c83fdd.chunk.js": "/minimals/static/js/787.a3c83fdd.chunk.js",
-    "static/media/minimalfasion.png": "/minimals/static/media/minimalfasion.004464e89d6c270200f3.png",
-    "static/media/Autumn.png": "/minimals/static/media/Autumn.e230b74d4e16ad8cd101.png",
     "static/media/Logincover1.png": "/minimals/static/media/Logincover1.f21bf2d9f7baefd6c9c6.png",
+    "static/media/minimalfasion.png": "/minimals/static/media/minimalfasion.5065fa87b26a19a766de.png",
     "static/media/NewArrival.png": "/minimals/static/media/NewArrival.e1b6c4cf21abd30ccec7.png",
     "static/media/summer.png": "/minimals/static/media/summer.5001b8d493097f70fd67.png",
     "static/media/Logincover.png": "/minimals/static/media/Logincover.3e8f315193b084ae0776.png",
+    "static/media/Autumn.png": "/minimals/static/media/Autumn.8a476feb8748fdc405cd.png",
+    "static/media/sole.png": "/minimals/static/media/sole.7f92d2c24dfcad7320f4.png",
+    "static/media/sole2.png": "/minimals/static/media/sole2.892056ae0044b9663e85.png",
+    "static/media/sole3.png": "/minimals/static/media/sole3.8b250aece4b0ca25422a.png",
+    "static/media/sole1.png": "/minimals/static/media/sole1.0accefc414c93bb6495d.png",
+    "static/media/adelia.otf": "/minimals/static/media/adelia.3a027bde7446775041f5.otf",
     "index.html": "/minimals/index.html",
     "static/media/._UniNeue-HeavyItalic.ttf": "/minimals/static/media/._UniNeue-HeavyItalic.eaf3d4bb2fe43005c961.ttf",
     "static/media/._UniNeue-Light.ttf": "/minimals/static/media/._UniNeue-Light.eaf3d4bb2fe43005c961.ttf",
-    "main.676ee886.css.map": "/minimals/static/css/main.676ee886.css.map",
-    "main.de66279f.js.map": "/minimals/static/js/main.de66279f.js.map",
+    "main.fd1776be.css.map": "/minimals/static/css/main.fd1776be.css.map",
+    "main.f630a3c5.js.map": "/minimals/static/js/main.f630a3c5.js.map",
     "787.a3c83fdd.chunk.js.map": "/minimals/static/js/787.a3c83fdd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.676ee886.css",
-    "static/js/main.de66279f.js"
+    "static/css/main.fd1776be.css",
+    "static/js/main.f630a3c5.js"
   ]
 }
