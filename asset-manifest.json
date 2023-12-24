@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/minimals/static/css/main.d916f60a.css",
-    "main.js": "/minimals/static/js/main.a8aa05b0.js",
+    "main.css": "/minimals/static/css/main.ef861a15.css",
+    "main.js": "/minimals/static/js/main.7a5538b1.js",
     "static/js/787.a3c83fdd.chunk.js": "/minimals/static/js/787.a3c83fdd.chunk.js",
     "static/media/Logincover1.png": "/minimals/static/media/Logincover1.f21bf2d9f7baefd6c9c6.png",
     "static/media/minimalfasion.png": "/minimals/static/media/minimalfasion.5065fa87b26a19a766de.png",
@@ -17,12 +17,12 @@
     "index.html": "/minimals/index.html",
     "static/media/._UniNeue-HeavyItalic.ttf": "/minimals/static/media/._UniNeue-HeavyItalic.eaf3d4bb2fe43005c961.ttf",
     "static/media/._UniNeue-Light.ttf": "/minimals/static/media/._UniNeue-Light.eaf3d4bb2fe43005c961.ttf",
-    "main.d916f60a.css.map": "/minimals/static/css/main.d916f60a.css.map",
-    "main.a8aa05b0.js.map": "/minimals/static/js/main.a8aa05b0.js.map",
+    "main.ef861a15.css.map": "/minimals/static/css/main.ef861a15.css.map",
+    "main.7a5538b1.js.map": "/minimals/static/js/main.7a5538b1.js.map",
     "787.a3c83fdd.chunk.js.map": "/minimals/static/js/787.a3c83fdd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d916f60a.css",
-    "static/js/main.a8aa05b0.js"
+    "static/css/main.ef861a15.css",
+    "static/js/main.7a5538b1.js"
   ]
 }
