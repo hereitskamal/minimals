@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/minimals/static/css/main.30f08fbd.css",
+    "main.css": "/minimals/static/css/main.57575431.css",
     "main.js": "/minimals/static/js/main.7a5538b1.js",
     "static/js/787.a3c83fdd.chunk.js": "/minimals/static/js/787.a3c83fdd.chunk.js",
     "static/media/Logincover1.png": "/minimals/static/media/Logincover1.f21bf2d9f7baefd6c9c6.png",
@@ -17,12 +17,12 @@
     "index.html": "/minimals/index.html",
     "static/media/._UniNeue-HeavyItalic.ttf": "/minimals/static/media/._UniNeue-HeavyItalic.eaf3d4bb2fe43005c961.ttf",
     "static/media/._UniNeue-Light.ttf": "/minimals/static/media/._UniNeue-Light.eaf3d4bb2fe43005c961.ttf",
-    "main.30f08fbd.css.map": "/minimals/static/css/main.30f08fbd.css.map",
+    "main.57575431.css.map": "/minimals/static/css/main.57575431.css.map",
     "main.7a5538b1.js.map": "/minimals/static/js/main.7a5538b1.js.map",
     "787.a3c83fdd.chunk.js.map": "/minimals/static/js/787.a3c83fdd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.30f08fbd.css",
+    "static/css/main.57575431.css",
     "static/js/main.7a5538b1.js"
   ]
 }
